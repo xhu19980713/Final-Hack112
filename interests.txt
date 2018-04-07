@@ -1,0 +1,7 @@
+movie:movie,romantic,action,horror,drama,sciencefiction,crime,superhero
+Sports:sports,sport,soccer,badminton,volleyball,tennis,swim
+academy:academy,academic,Computerscience,Mathematics,Physics,Pyschology,Hackathon,Biology,Economics,Cognitivepsychology,business
+school:school,schooi,student,students
+book:book,fiction,technology,novel,non-fiction,sciencefiction,poetry,review,biography,fairytale,historicalfiction
+food:food,snacks,veggie,burger,protein,drinks
+Image:photography,video
